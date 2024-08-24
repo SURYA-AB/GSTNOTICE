@@ -1,0 +1,12 @@
+noticeOrderId,issuedBy,type,dtOfIssue,descr,applnId,dueDate,amount,isRead,docId,applnCd,appDefId,pdfDownloadURL,status,action,insertTmstmp,apprAuth,authStatus,suppDcxTxofr,suppDocId
+ZA330524252009S,Tamil Nadu,Order,28/05/2024,Registration Certificate,37269404.0,NA,NA,N,117888836.0,APLAC,,,,,28/05/2024 14:21:16,,APR,,
+ZA330524003707T,Tamil Nadu,Order,02/05/2024,Registration Certificate,36960791.0,NA,NA,N,116688721.0,APLAC,,,,,02/05/2024 10:53:12,,APR,,
+ZA330424256685E,Tamil Nadu,Order,30/04/2024,Registration Certificate,36933392.0,NA,NA,N,116620418.0,APLAC,,,,,30/04/2024 16:35:27,,APR,,
+ZA330922140366N,System Generated,Notice,25/09/2022,Notice to return defaulter u/s 46 for not filing return,,10/10/2022,NA,N,,APL3A,38633745,/returns/auth/gstr3a,,,25/09/2022 10:07:43,,,,
+ZA3309211001653,Tamil Nadu,Order,22/09/2021,Registration Certificate,16796528.0,NA,NA,N,78285062.0,APCFC,,,,,22/09/2021 10:21:13,,APR,,
+ZA330921050870P,Tamil Nadu,Notice,13/09/2021,Notice for Seeking Additional Information / Clarification / Documents relating to Application for Amendment,16796528.0,22/09/2021,NA,Y,77827808.0,APCFC,,,,,13/09/2021 10:53:33,,APR,,
+ZA330921029169J,Tamil Nadu,Order,07/09/2021,Registration Certificate,16747817.0,NA,NA,N,77604291.0,APCFC,,,,,07/09/2021 13:54:13,,APR,,
+ZA330821068651L,Tamil Nadu,Order,16/08/2021,Registration Rejection Order,16231479.0,NA,NA,Y,76507649.0,APLAC,,,,,16/08/2021 09:54:23,,RJT,,
+ZA330821015197S,Tamil Nadu,Notice,04/08/2021,Notice for Seeking Additional Information / Clarification / Documents relating to Application for Amendment,16231479.0,13/08/2021,NA,Y,75922365.0,APLAC,,,,,04/08/2021 14:52:07,,RJT,,
+ZA330120004181O,Tamil Nadu,Order,02/01/2020,Registration Certificate,11280592.0,NA,NA,N,56634511.0,APLAC,,,,,02/01/2020 16:35:25,,APR,,
+ZA331219034244U,Tamil Nadu,Order,09/12/2019,Registration Certificate,10951970.0,NA,NA,N,55728948.0,APLAC,,,,,09/12/2019 14:05:16,,APR,,

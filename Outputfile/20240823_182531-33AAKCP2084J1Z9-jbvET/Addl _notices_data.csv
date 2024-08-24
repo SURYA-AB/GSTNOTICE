@@ -1,0 +1,7 @@
+caseTaskId,arn,stcd,priority,caseTpeCd,caseId,status,assignmentDt,completionDt,taxOfficalId,isRead,remarks,taskDesc,insertTimeStamp,updateTimeStamp,caseTypeName,gstRefId,gstIn,userId,ipAddress,stateJursdCd,refId,caseFolderItemId,alertCd,assgnDtStr,complDtStr,tranType,sh,enqStateCd
+2406958,AD3308230911561,,,ADJSR,5765142,OPEN,1693420200000,,,N,,Notice for intimating discrepancies in return in Form GST ASMT-10,,,SCRUTINY OF RETURNS,,33AAKCP2084J1Z9,,,,ZD330823183136D,,,,,,,
+2790990,AD3308230911561,,,ADJSR,5765142,OPEN,1696444200000,,,N,,Order to drop proceedings in Form GST ASMT-12,,,SCRUTINY OF RETURNS,,33AAKCP2084J1Z9,,,,ZD3310230167510,,,,,,,
+5191430,AD330524092869J,,,ADJDT,8820881,OPEN,1717007400000,,,N,,Show Cause Notice and Summary thereof in Form GST DRC-01,,,DETERMINATION OF TAX,,33AAKCP2084J1Z9,,,,ZD330524303854J,,,,,,,
+5996984,AD330524092869J,,,ADJDT,8820881,OPEN,1722018600000,,,N,,Intimation of issue of reminder in  Form GST DRC-01,,,DETERMINATION OF TAX,,33AAKCP2084J1Z9,,,,ZD330724326366D,,,,,,,
+6062297,AD330524092869J,,,ADJDT,8820881,OPEN,1722537000000,,,N,,Intimation of issue of reminder in  Form GST DRC-01,,,DETERMINATION OF TAX,,33AAKCP2084J1Z9,,,,ZD330824019113S,,,,,,,
+6234391,AD330524092869J,,,ADJDT,8820881,OPEN,1724005800000,,,N,,Intimation of issue of reminder in  Form GST DRC-01,,,DETERMINATION OF TAX,,33AAKCP2084J1Z9,,,,ZD330824152040V,,,,,,,
